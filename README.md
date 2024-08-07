@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**RaynordMayard12/RaynordMayard12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raynord Mayard
 
-Here are some ideas to get you started:
+-Estou estudando [www.alura.](https://www.alura.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou se desenvolvendo na linguagem JavaScript
+
+Utilizo espaço para minha organização e compartlhamento dos projetos desenvolvidos.
+
+##você pode entrar em contato comigo📧
+
+raynord@prof.educacao.sp.gov.br
+
+!![ewe-lamb](https://github.com/user-attachments/assets/af078cda-adf6-4e57-8c5f-85284c836f0c)
+
+
